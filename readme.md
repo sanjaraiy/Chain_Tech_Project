@@ -20,6 +20,6 @@ font-family: "Poppins", sans-serif;
 - written code optimized and readable easly.
 
 ## Demo Image:-
-!(demo)[https://github.com/sanjaraiy/Chain_Tech_Project/blob/main/assets/chaintech.png]
+![Demo](https://github.com/sanjaraiy/Chain_Tech_Project/blob/main/assets/chaintech.png)
 
 ## Demo Link :-
