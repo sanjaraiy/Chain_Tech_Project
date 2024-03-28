@@ -23,3 +23,4 @@ font-family: "Poppins", sans-serif;
 ![Demo](https://github.com/sanjaraiy/Chain_Tech_Project/blob/main/assets/chaintech.png)
 
 ## Demo Link :-
+- Deploy Link ![demo](https://chain-tech-project.vercel.app/)
